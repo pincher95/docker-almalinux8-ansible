@@ -1,6 +1,6 @@
 # Alma Linux 8 Ansible Test Image
 
-[![CI](https://github.com/pincher95/docker-almalinux8-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/pincher95/docker-almalinux8-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/pincher95/docker-almalinux8-ansible)](https://hub.docker.com/r/pincher95/docker-almalinux8-ansible/)
+[![CI](https://github.com/pincher95/docker-almalinux8-ansible/workflows/Build/badge.svg?branch=main&event=push)](https://github.com/pincher95/docker-almalinux8-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/pincher95/docker-almalinux8-ansible)](https://hub.docker.com/r/pincher95/docker-almalinux8-ansible/)
 
 Alma Linux 8 Docker container for Ansible playbook and role testing.
 
